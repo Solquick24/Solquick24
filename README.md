@@ -26,15 +26,13 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
 
 ---
 
 ## 📫 How to reach me
 
-- **Email**: [your_email@example.com](mailto:your_email@example.com)
-- **Blog/Portfolio**: [Tistory](https://yourblog.tistory.com)
+- **Email**: [solqucik24@gmail.com](mailto:solqucik24@gmail.com)
+- **Blog/Portfolio**: [Tistory](https://solquick24.tistory.com)
 
 ---
 
