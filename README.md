@@ -1,20 +1,38 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20there%20👋%20I'm%20Solquick24!&fontSize=32&fontAlignY=35)
 
-<div align="center">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Solquick24&count_bg=%23C4E2E7&title_bg=%23867AE9&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://github.com/Solquick24)
-![Solquick24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Solquick24&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solquick24&layout=compact&theme=radical)](https://github.com/Solquick24)
+<h3 align="center">
+☁️ Computer Science Student | Cloud & Backend Enthusiast
+</h3>
 
-</div>
+<br>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🌱 Computer Science & Engineering student  
-- 🎸 Enjoys playing guitar, fitness, and coding
-- 📚 Interested in digital logic, networks, data structures, algorithms, cloud (AWS/Azure)
+- 🎓 Computer Science & Engineering Student
+- ☁️ Cloud Computing Minor
+- 💻 Interested in Backend, Cloud, and System Design
+- 🏋️ Passionate about fitness and continuous growth
+- 🎸 Fingerstyle Guitar Player
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solquick24&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solquick24&layout=compact" />
+</p>
+
+---
+
+## 🔥 Current Focus
+
+- Cloud Computing (AWS, Azure)
+- Software Testing
+- Data Structures & Algorithms
+- Backend Development
 
 ---
 
@@ -40,11 +58,18 @@
 
 - Cloud Computing (AWS, Azure)
 - Advanced Algorithms, System Design
+- OS, OOP
+- Git
 - Web Development with Dart/Flutter
 
 ---
 
 ## ⚡ Fun fact
 
-- Play fingerstyle guitar & love building custom keyboards!
+## ⚡ Fun Facts
+
+- 🎸 I play fingerstyle guitar.
+- ⌨️ I enjoy custom mechanical keyboards.
+- 🏋️ Gym sessions are part of my daily routine.
+- 🤖 Claude Code & Suno ->>>> **FAVROURITE**
 
