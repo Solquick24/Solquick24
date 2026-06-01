@@ -21,8 +21,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=solquick24&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solquick24&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Solquick24&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Solquick24&layout=compact" />
 </p>
 
 ---
@@ -63,8 +63,6 @@
 - Web Development with Dart/Flutter
 
 ---
-
-## ⚡ Fun fact
 
 ## ⚡ Fun Facts
 
